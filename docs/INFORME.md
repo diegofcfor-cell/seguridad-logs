@@ -1,8 +1,9 @@
 # Trabajo práctico: Logging y detección de incidentes de seguridad en Laravel
 
 **Materia:** Programación IV, Tecnicatura Universitaria en Programación (UTN)
-**Alumno:** Diego
-**Fecha:** noviembre de 2026
+**Profesor:** Crozy German - Aguirre Fernando
+**Alumno:** Cardozo,Diego Fabián
+**Fecha:** 5 noviembre de 2026
 
 ---
 
