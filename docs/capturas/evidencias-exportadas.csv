@@ -1,0 +1,5 @@
+id,identifier,ip_address,status,user_agent,created_at
+1,prueba@test.com,127.0.0.1,failed,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36","2026-11-04 22:58:03"
+2,prueba@test.com,127.0.0.1,failed,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36","2026-11-04 22:58:10"
+3,prueba@test.com,127.0.0.1,failed,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36","2026-11-04 22:58:15"
+4,prueba@test.com,127.0.0.1,success,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36","2026-11-04 23:10:25"
